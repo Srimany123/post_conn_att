@@ -21,3 +21,6 @@ sudo rpm -vhU https://nmap.org/dist/nmap-7.92-1.x86_64.rpm
 sudo rpm -vhU https://nmap.org/dist/zenmap-7.92-1.noarch.rpm
 sudo rpm -vhU https://nmap.org/dist/ncat-7.92-1.x86_64.rpm
 sudo rpm -vhU https://nmap.org/dist/nping-0.7.92-1.x86_64.rpm
+echo " import error connection technic"
+echo " leafpad /usr/bin/zenmap"
+echo " change python to python2"
